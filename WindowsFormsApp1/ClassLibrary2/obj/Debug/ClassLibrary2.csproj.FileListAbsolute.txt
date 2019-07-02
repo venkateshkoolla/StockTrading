@@ -1,0 +1,5 @@
+C:\Users\venkatesh.kolla\source\repos\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\venkatesh.kolla\source\repos\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\venkatesh.kolla\source\repos\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\venkatesh.kolla\source\repos\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\venkatesh.kolla\source\repos\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
